@@ -5,6 +5,7 @@
  * This program can play rock paper scissors.
 */
 
+// Set up
 basic.clearScreen()
 basic.showIcon(IconNames.Happy)
 game.setScore(0)
